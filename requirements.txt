@@ -1,5 +1,9 @@
-psycopg2
-python-dotenv
 pandas
-psycopg2-binary
+numpy
+matplotlib
+seaborn
+scikit-learn
+streamlit
 sqlalchemy
+psycopg2-binary
+pytest
