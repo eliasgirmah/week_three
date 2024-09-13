@@ -5,5 +5,4 @@ seaborn
 scikit-learn
 streamlit
 sqlalchemy
-psycopg2-binary
 pytest
